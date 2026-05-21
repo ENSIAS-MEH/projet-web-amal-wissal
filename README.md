@@ -46,6 +46,7 @@ Le fichier genere sera :
 target/JavaAppJEE.war
 ```
 
+
 Deployer ce fichier `.war` dans Tomcat 10, puis demarrer Tomcat.
 
 ## URLs
